@@ -32,6 +32,6 @@ if (p1 == 2)
      y = (y + yc) / 2;
 }
 Console.SetCursorPosition(x, y);
-Console.WriteLine("с др");
+Console.WriteLine("+");
 count++;
 }
