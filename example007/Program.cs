@@ -3,8 +3,8 @@
 //Console.WriteLine("+");
 Console.Clear();
 int xa = 20, ya = 1;
-int xb = 41, yb = 27;
-int xc = 2, yc = 27;
+int xb = 41, yb = 47;
+int xc = 2, yc = 47;
 Console.SetCursorPosition(xa,ya);
 Console.WriteLine("+");
 Console.SetCursorPosition(xb,yb);
@@ -32,6 +32,6 @@ if (p1 == 2)
      y = (y + yc) / 2;
 }
 Console.SetCursorPosition(x, y);
-Console.WriteLine("+");
+Console.WriteLine("с др");
 count++;
 }
